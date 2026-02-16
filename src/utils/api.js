@@ -1,4 +1,4 @@
-const API_KEY = 'YOUR_API_KEY'
+const API_KEY = '1234567890abcdef1234567890abcdef'
 const BASE_URL = 'https://api.themoviedb.org/3'
 
 export const fetchMovies = (endpoint, page = 1) =>
